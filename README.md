@@ -21,6 +21,7 @@ https://velog.io/@mercurios0603/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%98-%E
   <br>
 - number of principal components , 가능하다면 의미 파악하기
 - considerate observation of DATA
+- stepping stone of DL project 
 
 ## overall, 
 - 다양한 module, model, methods 시도
