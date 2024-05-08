@@ -9,6 +9,9 @@
 5. **iterate** & make it better 
 
 ## overall, 
+- **many iterations**..  반복적 계산을 통한 정확성 / 효율성 향상
+- Universal approximation Theorem (Hornik, 1991)
+- no-free-lunch theorems for machine learning (Wolpert, 1996) 
 - 다양한 module, model, methods 시도
 - ~ 한 결과가 잘 나왔습니다 / 다양한 시도를 해 보았습니다
 - bit of **meaningful** try.. (해석이 가능한 / 이론적 배경이 탄탄한)
