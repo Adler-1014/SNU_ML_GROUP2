@@ -10,6 +10,12 @@
 4. predict! (train, validation, test)
 5. **iterate** & make it better
 
+### Data 
+- dimension: 12 columns * 8,523 rows = 102,276
+- train : validation : test = 5 : 3 : 2
+- kaggle 에 이미 올라온 많은 결과보다 더 나은 결과를 얻기 힘듦. 따라서..
+- NEW criteria : for example, 95% accuracy in **TEST SET** is enough!
+  
 # Theory 
 - Universal approximation Theorem (Hornik, 1991)
 - no-free-lunch theorems for machine learning (Wolpert, 1996) 
