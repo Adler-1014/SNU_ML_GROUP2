@@ -18,7 +18,8 @@ https://velog.io/@mercurios0603/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%98-%E
 - https://www.kaggle.com/code/farheen28/big-mart-sale-using-pca
 - https://en.wikipedia.org/wiki/Radial_basis_function_kernel
 - https://big-dream-world.tistory.com/m/45
- number of principal components , 가능하다면 의미 파악하기
-considerate observation of DATA
+  <br>
+- number of principal components , 가능하다면 의미 파악하기
+- considerate observation of DATA
 
   
