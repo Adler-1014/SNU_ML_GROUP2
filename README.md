@@ -20,13 +20,13 @@
 - stepping stone of DL project
 
 # Things to apply 
-- PCA (kernel PCA)
 - https://www.kaggle.com/code/farheen28/big-mart-sale-using-pca
 - https://en.wikipedia.org/wiki/Radial_basis_function_kernel
 - https://big-dream-world.tistory.com/m/45
   <br>
 - number of principal components , 가능하다면 의미 파악하기
 - considerate observation of DATA
+- '근데 솔직히 데이터 차원(dimension)이 작아서 실질적 성능 향상이 없을지도..'
 
 
 ## 브랜치 전략 및 컨벤션
