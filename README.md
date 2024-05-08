@@ -1,6 +1,6 @@
 # SNU_ML_GROUP2
 서울대학교 빅데이터핀테크 8기 기계학습과 딥러닝 과목 프로젝트
-https://github.com/aswintechguy/Machine-Learning-Projects/tree/master/Bigmart%20Sales%20Prediction%20Analysis%20-%20Regression
+- https://github.com/aswintechguy/Machine-Learning-Projects/tree/master/Bigmart%20Sales%20Prediction%20Analysis%20-%20Regression
 
 
 ## Process
