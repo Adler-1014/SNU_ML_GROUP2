@@ -29,6 +29,7 @@
 - number of principal components , 가능하다면 의미 파악하기
 - considerate observation of DATA
 - '데이터 차원(dimension)이 작아서 실질적 성능 향상이 없을지도..'
+- 성능 향상 보다는 **의미 파악**에 집중: "데이터 차원을 낮췄더니 ~하고, ~한 component 가 critical 하게 나오더라"
 
 
 ## 브랜치 전략 및 컨벤션
