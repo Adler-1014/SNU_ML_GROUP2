@@ -26,7 +26,7 @@
   <br>
 - number of principal components , 가능하다면 의미 파악하기
 - considerate observation of DATA
-- '근데 솔직히 데이터 차원(dimension)이 작아서 실질적 성능 향상이 없을지도..'
+- '데이터 차원(dimension)이 작아서 실질적 성능 향상이 없을지도..'
 
 
 ## 브랜치 전략 및 컨벤션
