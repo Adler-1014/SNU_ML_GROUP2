@@ -21,10 +21,10 @@ https://velog.io/@mercurios0603/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%98-%E
   <br>
 - number of principal components , 가능하다면 의미 파악하기
 - considerate observation of DATA
-- stepping stone of DL project 
 
 ## overall, 
 - 다양한 module, model, methods 시도
 - ~ 한 결과가 잘 나왔습니다 / 다양한 시도를 해 보았습니다
-- bit of **meaningful** try.. (해석이 가능한 / 이론적 배경이 탄탄한) 
+- bit of **meaningful** try.. (해석이 가능한 / 이론적 배경이 탄탄한)
+- stepping stone of DL project 
   
