@@ -11,6 +11,8 @@
 5. **iterate** & make it better
 
 ### Data 
+- train.shape
+  - (8523, 12)
 - dimension: 12 columns * 8,523 rows = 102,276
 - train : validation : test = 5 : 3 : 2
 - kaggle 에 이미 올라온 많은 결과보다 더 나은 결과를 얻기 힘듦. 따라서..
